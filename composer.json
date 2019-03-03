@@ -1,0 +1,14 @@
+{
+    "name": "goalwaybe/demowang",
+    "description": "a test",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "ultron",
+            "email": "2548880572@qq.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}
