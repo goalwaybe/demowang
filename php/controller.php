@@ -4,6 +4,6 @@ namespace web\controller;
 class Index
 {
 		public function show(){
-			echo 'hdphp......';
+			echo 'QeVmgor4NBj0zR0CqrwF';
 		}
 }
