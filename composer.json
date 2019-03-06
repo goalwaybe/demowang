@@ -10,7 +10,10 @@
         }
     ],
     "minimum-stability": "dev",
-    "require": {},
+    "require": {
+        "gregwar/captcha": "dev-master",
+        "intervention/image": "^2.4@dev"
+    },
 	"autoload":{
 	   "files":[
 		  "core/functions.php" 	
@@ -19,5 +22,11 @@
 		"core\\":"core/",
 		"web\\":"web/"
 	  }
-	}
+	},
+    "repositories": {
+        "packagist": {
+            "type": "composer",
+            "url": "https://packagist.phpcomposer.com"
+        }
+    }
 }
