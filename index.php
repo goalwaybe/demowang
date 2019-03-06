@@ -1,6 +1,6 @@
 <?php
-	
-Bootstrap::run();	
+include "vendor/autoload.php";	
+core\Bootstrap::run();	
 
 	
 	
